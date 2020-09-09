@@ -13,7 +13,7 @@ This GUI estimates the pitch of waveforms as described in "Theory and Applicatio
 
 5) "Parameters Spectral Analysis": This is the number of loops for the Spectral Analysis. At each loop, the scale of the FFT will be changed. This parameter is available only when the "Spectral Analysis" analysis is selected;
 
-6) "Analysis": The user can select 3 different types of analysis: 1) Auto-correlation, 2) Complex Cepstrum and 3) Spectral Analysis;
+6) "Analysis": The user can select 3 different types of analysis: 1) Auto-correlation, 2) Complex Cepstrum (using a Hamming window) and 3) Spectral Analysis;
 
 7) "Extract Pitch": The code will be executed. A figure with the results will be saved in the same folder selected in "Upload directory". The name of the new waveforms will be the "Pitch_orginal_name_Analysis_Selected.fig". For instance, if the original name was "DAbase_I", the figure will be saved with the name "Pitch_DAbase_I_Spectral_Analysis.fig", if the analysis selected was "Spectral Analysis";
 
