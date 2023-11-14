@@ -19,4 +19,4 @@ This GUI estimates the pitch of waveforms as described in "Theory and Applicatio
 
 These Matlab files are part of a large Toolbox that I wrote and that I am using to analyze EEG and MEG data.
 
-If you have any question and/or want to report bugs, please e-mail me (Ale) at: pressalex@hotmail.com
+If you have any questions and/or want to report bugs, please e-mail me (Ale) at: pressalex@hotmail.com
